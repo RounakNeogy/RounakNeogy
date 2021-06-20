@@ -6,7 +6,7 @@ class Rounak:
     def __init__(self):
         self.info={
             pronouns: ["He","Him"],
-            institute: "Heritage Institute Of Technology",
+            institute: "Heritage Institute of Technology",
             status: "Student",
             goal: "To become a Software Developer"
         }
