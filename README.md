@@ -6,7 +6,8 @@ class Rounak:
     def __init__(self):
         self.pronouns=["He","Him"]
         self.institute="Heritage Institute Of Technology"
-        self.code=["C++","python","Javascript"]
+        self.code=[C++,python,HTML,CSS,JavaScripy]
+        
         
 
 me = Rounak()
