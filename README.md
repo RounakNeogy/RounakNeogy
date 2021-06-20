@@ -20,9 +20,11 @@ me = Rounak()
  
 ### My Github Stats
 <a href="https://github.com/RounakNeogy/RounakNeogy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RounakNeogy&&show_icons=true&theme=radical" alt="Zhenye's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RounakNeogy&&show_icons=true&theme=radical" alt="Rounak's GitHub Stats" />
 </a>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=RounakNeogy&show_icons=true&theme=radical"><p\>
+<a href="https://github.com/RounakNeogy/RounakNeogy">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RounakNeogy&show_icons=true&theme=radical" alt="Rounak's GitHub Stats">
+</a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RounakNeogy&show_icons=true&theme=tokyonight_duo"><p\>
 
 ### Want to connect
