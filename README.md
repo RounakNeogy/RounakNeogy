@@ -19,9 +19,9 @@ me = Rounak()
 ```
  
 ### My Github Stats
-<!-- <a href="https://github.com/RounakNeogy/RounakNeogy">
+<a href="https://github.com/RounakNeogy/RounakNeogy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RounakNeogy&&show_icons=true&theme=radical" alt="Rounak's GitHub Stats" />
-</a> -->
+</a>
 <a href="https://github.com/RounakNeogy/RounakNeogy">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=RounakNeogy&show_icons=true&theme=radical" alt="Rounak's GitHub Stats">
 </a>
