@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Rounak!
+# Hi there 👋 I'm Rounak!<img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50">
 ## Welcome to my Github Profile
-### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50">About me
+### About me
 ```python
 class Rounak:
     def __init__(self):
