@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Rounak!
-## Welcome to my Github Profile <img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
+## Welcome to my Github Profile <img align='right' src="https://media.giphy.com/media/JKo6P5QyuFkuhLlfVq/giphy.gif" width="200">
 ### About me
 ```python
 class Rounak:
