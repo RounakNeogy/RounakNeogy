@@ -5,6 +5,7 @@
 class Rounak:
     def __init__(self):
         self.pronouns=["He","Him"]
+        self.institute="Heritage Institute Of Technology"
 
 
 me = Rounak()
