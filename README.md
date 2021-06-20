@@ -24,4 +24,3 @@ me = Rounak()
 
 ### Want to connect
 <a href="https://www.linkedin.com/in/rounak-neogy-9a5518194/" title="python"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" alt="Linkedin" width="100px" height="40px"></a>
-Follow me on github
