@@ -1,6 +1,6 @@
-<h1 align="center"> Hi there 👋 I'm Rounak </h1>
-<h2 align="center"> Welcome to my Github Profile </h2>
-<h2>About me</h2>
+# Hi there 👋 I'm Rounak
+## Welcome to my Github Profile
+### About me
 ```
 class Rounak:
     def __init__(self):
