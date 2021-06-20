@@ -20,6 +20,9 @@ me = Rounak()
  
 ### My Github Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=RounakNeogy&show_icons=true&theme=radical"><p\>
+<a href="https://github.com/RounakNeogy/RounakNeogy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RounakNeogy&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+</a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RounakNeogy&show_icons=true&theme=tokyonight_duo"><p\>
 
 ### Want to connect
