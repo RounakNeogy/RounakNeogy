@@ -11,6 +11,7 @@ class Rounak:
             goal: "To become a Software Developer"
         }
         self.code=[C++,python,HTML,CSS,JavaScript]
+        self.tools=[React,Flask]
         
         
 me = Rounak()
