@@ -4,8 +4,12 @@
 ```python
 class Rounak:
     def __init__(self):
-        self.pronouns=["He","Him"]
-        self.institute="Heritage Institute Of Technology"
+        self.info={
+            pronouns: ["He","Him"],
+            institute: "Heritage Institute Of Technology",
+            status: "Student",
+            Goal: "To become a Software Developer"
+        }
         self.code=[C++,python,HTML,CSS,JavaScript]
         
         
