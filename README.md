@@ -8,7 +8,7 @@ class Rounak:
             pronouns: ["He","Him"],
             institute: "Heritage Institute Of Technology",
             status: "Student",
-            Goal: "To become a Software Developer"
+            goal: "To become a Software Developer"
         }
         self.code=[C++,python,HTML,CSS,JavaScript]
         
