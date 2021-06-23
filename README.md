@@ -10,7 +10,7 @@ class Rounak:
             goal: "To become a Software Developer"
         }
         self.code=[C++,python,HTML,CSS,JavaScript]
-        self.tools=[React,Flask]
+        self.tools=[React,Flask,NumPy,Pandas,Dialogflow]
         self.interest=("Problem Solving","Chess")
         
         
