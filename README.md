@@ -18,12 +18,16 @@ me = Rounak()
 ```
  
 ### My Github Stats
-<a href="https://github.com/RounakNeogy/RounakNeogy">
+| <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RounakNeogy&&show_icons=true&theme=radical" alt="Rounak's GitHub Stats" />  |  <img src="https://github-readme-stats.vercel.app/api?username=RounakNeogy&show_icons=true&theme=radical" alt="Rounak's GitHub Stats"> |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+<!-- <a href="https://github.com/RounakNeogy/RounakNeogy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RounakNeogy&&show_icons=true&theme=radical" alt="Rounak's GitHub Stats" />
 </a>
 <a href="https://github.com/RounakNeogy/RounakNeogy">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=RounakNeogy&show_icons=true&theme=radical" alt="Rounak's GitHub Stats">
-</a>
+</a> -->
 <a href="https://github.com/RounakNeogy/RounakNeogy">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RounakNeogy&show_icons=true&theme=tokyonight_duo" alt="Rounak's GitHub Stats">
 </a>
