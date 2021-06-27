@@ -18,7 +18,7 @@ me = Rounak()
 ```
  
 ### My Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=RounakNeogy&show_icons=true&theme=radical" alt="Rounak's GitHub Stats"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RounakNeogy&layout=compact&theme=radical" alt="Rounak's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=RounakNeogy&show_icons=true&theme=gotham" alt="Rounak's GitHub Stats"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RounakNeogy&layout=compact&theme=gotham" alt="Rounak's GitHub Stats" />
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RounakNeogy&show_icons=true&theme=tokyonight_duo" alt="Rounak's GitHub Stats"></p>
 <img src="https://activity-graph.herokuapp.com/graph?username=RounakNeogy&theme=react-dark">
