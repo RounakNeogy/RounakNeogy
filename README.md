@@ -36,4 +36,4 @@ me = Rounak()
 <br/>
 <a href="https://www.linkedin.com/in/rounak-neogy-9a5518194/" title="linkedin"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" alt="Linkedin" width="100px" height="40px"></a>
 <br/>
-<em><b>You can also follow me on Github </b>:)</em>
+<em><b>You can also follow me on Github</b> :)</em>
