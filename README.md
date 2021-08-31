@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Rounak!
+
 ## Welcome to my Github Profile <img align='right' src="https://media.giphy.com/media/JKo6P5QyuFkuhLlfVq/giphy.gif" width="400">
 ### About me
 ```python
