@@ -9,8 +9,8 @@ class Rounak:
             status: "Student",
             goal: "To become a Software Developer"
         }
-        self.code=[Java,C++,python,HTML,CSS,JavaScript]
-        self.tools=[React,Flask,NumPy,Pandas,Dialogflow]
+        self.code=["Java","C++","python","HTML","CSS","JavaScript"]
+        self.tools=["React","Flask","NumPy","Pandas","Dialogflow"]
         self.interest=("Problem Solving","Chess")
         
         
