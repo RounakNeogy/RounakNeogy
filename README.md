@@ -9,7 +9,7 @@ class Rounak:
             status: "Student",
             goal: "To become a Software Developer"
         }
-        self.code=["Java","C++","python","JavaScript",MySQL]
+        self.code=["Java","C++","python","JavaScript","MySQL"]
         self.tools=["React","SpringBoot","JUnit","Mokito","Flask"]
         self.interest=("Problem Solving","Chess")
         
