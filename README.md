@@ -1,4 +1,5 @@
-![](Profile_Banner.png)
+![image](https://user-images.githubusercontent.com/56738141/186486128-a67ee896-647f-4a1e-902d-30961b2b5c21.png)
+
 ## Welcome to my Github Profile! <img align='right' src="https://media.giphy.com/media/JKo6P5QyuFkuhLlfVq/giphy.gif" width="400">
 ### About me!
 ```python
