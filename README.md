@@ -6,12 +6,11 @@
 class Rounak:
     def __init__(self):
         self.info={
-            institute: "Heritage Institute of Technology",
-            status: "Student",
-            goal: "To become a Software Developer"
+            company: "RMGX Technologies",
+            status: "Software Developer - 1",
         }
         self.code=["Java","C++","python","JavaScript","MySQL"]
-        self.tools=["React","SpringBoot","JUnit","Mokito","Flask"]
+        self.tools=["SpringBoot","React","Angular","Redux","JUnit","Mokito","Flask"]
         self.interest=("Problem Solving","Chess")
         
         
